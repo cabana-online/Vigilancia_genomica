@@ -86,7 +86,7 @@ Después de una breve búsqueda verá el notebook:
 
 Seleccione y verá el notebook abierto.
 
-### Módulo 4: [Control de calidad de datos.](02.Modulo_2_QC.ipynb)
+### Módulo 4: [Control de calidad de datos.](04.Modulo_4_QC.ipynb)
 
 Vaya a https://colab.research.google.com/.
 
@@ -96,11 +96,11 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`02.Modulo_2_QC.ipynb`
+`04.Modulo_4_QC.ipynb`
 
 Seleccione y verá el notebook abierto.
 
-### Módulo 5: [Clasificación taxónomica de las secuencias](03.Modulo_3_taxonomia.ipynb)
+### Módulo 5: [Clasificación taxónomica de las secuencias](05.Modulo_5_taxonomia.ipynb)
 
 
 Vaya a https://colab.research.google.com/.
@@ -112,11 +112,11 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`03.Modulo_3_taxonomia.ipynb`
+`05.Modulo_5_taxonomia.ipynb`
 
 Seleccione y verá el notebook abierto.
 
-### Módulo 6: [Ensamblajes *De novo*.](04.Modulo_4_ensamblaje.ipynb)
+### Módulo 6: [Ensamblajes *De novo*.](06.Modulo_6_ensamblaje.ipynb)
 
 Vaya a https://colab.research.google.com/.
 
@@ -126,11 +126,11 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`04.Modulo_4_ensamblaje.ipynb`
+`06.Modulo_6_ensamblaje.ipynb`
 
 Seleccione y verá el notebook abierto.
 
-### Módulo 7:[Anotación de genomas](05.Modulo_5_anotacion.ipynb) 
+### Módulo 7:[Anotación de genomas](07.Modulo_7_anotacion.ipynb) 
 
 Vaya a https://colab.research.google.com/.
 
@@ -140,12 +140,12 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`05.Modulo_5_anotacion.ipynb`
+`07.Modulo_7_anotacion.ipynb`
 
 Seleccione y verá el notebook abierto.
 
 
-### Módulo 8:[Serotipado *Streptococcus pneumoniae* y *Streptococcus agalactiae* ](06.Modulo_6_serotipado.ipynb) 
+### Módulo 8:[Serotipado *Streptococcus pneumoniae* y *Streptococcus agalactiae* ](08.Modulo_8_serotipado.ipynb) 
 
 Vaya a https://colab.research.google.com/.
 
@@ -155,11 +155,11 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`06.Modulo_6_serotipado.ipynb`
+`08.Modulo_8_serotipado.ipynb`
 
 Seleccione y verá el notebook abierto.
 
-### Módulo 9:[MLST (Tipificación de secuencias multilocus)](07.Modulo_7_MLST.ipynb) 
+### Módulo 9:[MLST (Tipificación de secuencias multilocus)](09.Modulo_9_MLST.ipynb) 
 
 Vaya a https://colab.research.google.com/.
 
@@ -169,11 +169,11 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`07.Modulo_7_MLST.ipynb`
+`09.Modulo_9_MLST.ipynb`
 
 Seleccione y verá el notebook abierto.
 
-### Módulo 10:[AMR ](08.Modulo_8_AMR.ipynb) 
+### Módulo 10:[AMR](10.Modulo_10_AMR.ipynb) 
 
 Vaya a https://colab.research.google.com/.
 
@@ -183,11 +183,11 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`08.Modulo_8_AMR.ipynb`
+`10.Modulo_10_AMR.ipynb`
 
 Seleccione y verá el notebook abierto.
 
-### Módulo 11:[Mapeo ](09.Modulo_9_mapeo.ipynb) 
+### Módulo 11:[Mapeo](11.Modulo_11_mapeo.ipynb) 
 
 Vaya a https://colab.research.google.com/.
 
@@ -197,11 +197,11 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`09.Modulo_9_mapeo.ipynb`
+`11.Modulo_11_mapeo.ipynb`
 
 Seleccione y verá el notebook abierto.
 
-### Módulo 12:[Llamado de Variantes](10.Modulo_10_llamado_de_variantes.ipynb) 
+### Módulo 12:[Llamado de Variantes](12.Modulo_12_llamado_de_variantes.ipynb) 
 
 Vaya a https://colab.research.google.com/.
 
@@ -211,11 +211,11 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`10.Modulo_10_llamado_de_variantes.ipynb`
+`12.Modulo_12_llamado_de_variantes.ipynb`
 
 Seleccione y verá el notebook abierto.
 
-### Módulo 13:[Filogenética](11.Modulo_11_filogenetica.ipynb) 
+### Módulo 13:[Filogenética](13.Modulo_13_filogenetica.ipynb) 
 
 Vaya a https://colab.research.google.com/.
 
@@ -225,11 +225,11 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`11.Modulo_11_filogenetica.ipynb`
+`13.Modulo_13_filogenetica.ipynb`
 
 Seleccione y verá el notebook abierto.
 
-### Módulo 14:[Flujos de trabajo (workflows/pipelines) bioinformático de NGS](12.Modulo_12_introduccion_pipelines.ipynb) 
+### Módulo 14:[Flujos de trabajo (workflows/pipelines) bioinformático de NGS](14.Modulo_14_introduccion_pipelines.ipynb) 
 
 Vaya a https://colab.research.google.com/.
 
@@ -239,11 +239,11 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`12.Modulo_12_introduccion_pipelines.ipynb`
+`14.Modulo_14_introduccion_pipelines.ipynb`
 
 Seleccione y verá el notebook abierto.
 
-### Módulo 15:[Flujos de Trabajo GPS y GBS](13.Modulo_13_GPS_unified_pipeline.ipynb) 
+### Módulo 15:[Flujos de Trabajo GPS y GBS](15.Modulo_15_GPS_unified_pipeline.ipynb) 
 
 Vaya a https://colab.research.google.com/.
 
@@ -253,7 +253,7 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`13.Modulo_13_GPS_unified_pipeline.ipynb`
+`15.Modulo_15_GPS_unified_pipeline.ipynb`
 
 Seleccione y verá el notebook abierto.
 
