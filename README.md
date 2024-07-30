@@ -264,17 +264,17 @@ Seleccione y verá el notebook abierto.
 
 ## Agradecimientos
 
-- ![Central Research Laboratory - KIMS BENGALURU](./images/agr1.png)
+![Central Research Laboratory - KIMS BENGALURU](./images/agr1.png)
 
-- ![Universidad de los Andes](./images/Universidad-de-los-Andes-650x251.png)
+![Universidad de los Andes](./images/Universidad-de-los-Andes-650x251.png)
 
-- ![MRC](./images/Logo-MRC.png)
+![MRC](./images/Logo-MRC.png)
 
-- ![London School of Hygiene & Tropical Medicine](./images/LSHTMLogo2020.svg.png)
+![London School of Hygiene & Tropical Medicine](./images/LSHTMLogo2020.svg.png)
 
-- ![LUMS - A Not-for-Profit University](./images/lums.png)
+![LUMS - A Not-for-Profit University](./images/lums.png)
 
-- ![Wellcome Sanger Insitute](./images/Sanger_Logo.png)
+![Wellcome Sanger Insitute](./images/Sanger_Logo.png)
 
 
 
