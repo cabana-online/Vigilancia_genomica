@@ -1,9 +1,9 @@
-# Curso de bioinformática: Vigilancia genómica de *S.pneumoniae* y *S. agalactiae*
+# Curso de bioinformática: Vigilancia genómica de *Streptococcus pneumoniae* y *Streptococcus pneumoniae*
 *Adaptado del curso: Advanced Bioinformatics Course developed for the GPS and JUNO projects.*
 
 ## Resumen
 
-El proyecto GPS, es decir, el proyecto de secuenciación neumocócica global, es una red mundial de vigilancia genómica de *Streptococcus pneumoniae* que proporciona pruebas para el control de la enfermedad neumocócica. El proyecto JUNO es una vigilancia genómica global de *Streptococcus agalactiae*, que es una causa importante de enfermedad invasiva neonatal en todo el mundo. Uno de los objetivos principales de los proyectos GPS y JUNO es fortalecer la capacidad de nuestros colaboradores del proyecto en la generación y análisis de datos genómicos. 
+El proyecto GPS, es decir, el proyecto de secuenciación neumocócica global, es una red mundial de vigilancia genómica de *Streptococcus pneumoniae* que proporciona pruebas para el control de la enfermedad neumocócica. El proyecto JUNO es una vigilancia genómica global de *Streptococcus pneumoniae*, que es una causa importante de enfermedad invasiva neonatal en todo el mundo. Uno de los objetivos principales de los proyectos GPS y JUNO es fortalecer la capacidad de nuestros colaboradores del proyecto en la generación y análisis de datos genómicos. 
 Este curso está diseñado para capacitar a los participantes en la vigilancia genómica de *S. agalactiae* y *S. pneumoniae*. A través de este programa, los asistentes adquirirán conocimientos y habilidades esenciales para la generación, análisis e interpretación de datos genómicos relevantes para estos patógenos.
 Este curso tiene como objetivo proporcionar a los participantes las herramientas necesarias para realizar una vigilancia genómica eficaz, contribuyendo así al control y prevención de enfermedades causadas por *S. agalactiae* y *S. pneumoniae*.
 
