@@ -259,22 +259,17 @@ Seleccione y verá el notebook abierto.
 
 ## Financiación
 
-![Bill & Melinda Gates foundation](./images/funding.png)
+<img src="./images/funding.png" width="350" height="210">
 
 
-## Agradecimientos
+## Colaboradores
 
-![Central Research Laboratory - KIMS BENGALURU](./images/agr1.png)
-
-![Universidad de los Andes](./images/Universidad-de-los-Andes-650x251.png)
-
-![MRC](./images/Logo-MRC.png)
-
-![London School of Hygiene & Tropical Medicine](./images/LSHTMLogo2020.svg.png)
-
-![LUMS - A Not-for-Profit University](./images/lums.png)
-
-![Wellcome Sanger Insitute](./images/Sanger_Logo.png)
+<img src="./images/agr1.png" width="240" height="150">
+<img src="./images/Universidad-de-los-Andes-650x251.png" width="250" height="100">
+<img src="./images/Logo-MRC.png" width="250" height="100">
+<img src="./images/LSHTMLogo2020.svg.png" width="250" height="110">
+<img src="./images/lums.png" width="250" height="100">
+<img src="./images/Sanger_Logo.png" width="250" height="100">
 
 
 
