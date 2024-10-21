@@ -315,6 +315,3 @@ Seleccione y verá el notebook abierto.
 - Felipe Sierra - Universidad de los Andes
 - Mouhamadou Fadel Dipo - MRC Unit The Gambia
 - Victoria Carr - Wellcome Sanger Institute
-
-
-
